@@ -22,7 +22,7 @@ Now let’s start with the task of WhatsApp chat sentiment analysis with Python.
 
 It doesn’t matter if you are using a group chat dataset or your conversation with one person. All the functions defined above will prepare your data for the task of sentiment analysis as well as for any data science task. Now here is how we can prepare the data we collected from WhatsApp by using the above functions:
 
-![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-2.png)
+![Flowchart (2)](https://user-images.githubusercontent.com/60835356/142739642-315ba2a7-589e-4ca7-94ac-51292b2197d1.png)
 
 Now here is how we can analyze the sentiments of WhatsApp chat using Python:
 ![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-3.png)
@@ -31,3 +31,7 @@ Now here is how we can analyze the sentiments of WhatsApp chat using Python:
 So, the data I used indicates that most of the messages between me and the other person are neutral. Which means it’s neither positive nor negative.
 ## SUMMARY
 So this is how we can perform the task of sentiment analysis of WhatsApp chat. WhatsApp is a great source of data for the task of sentiment analysis and every data science task based on natural language processing.
+ ## FLOWCHART
+ 
+![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/FLOWCHART.png)
+
