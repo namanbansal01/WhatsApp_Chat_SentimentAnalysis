@@ -1,6 +1,6 @@
 # WhatsApp_Chat_SentimentAnalysis
 ## WhatsApp is a great source of data to analyze many patterns and relationships between two or more people chatting personally or even in groups
-![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-1.png)
+![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-1.jpeg)
 
 To analyze the sentiments of a WhatsApp chat, we need to collect data from WhatsApp. Most of you must be using this messaging app, so to collect data about your chat, simply follow the steps mentioned below:
 ### For iPhone:
