@@ -15,4 +15,7 @@ You will see an option to attach media while exporting your chat. For simplicity
 
 # WhatsApp Chat Sentiment Analysis using Python
 Now let’s start with the task of WhatsApp chat sentiment analysis with Python. I’ll start this task by defining some helper functions because the data we get from WhatsApp is not a dataset that is ready to be used for any kind of data science task. So, to prepare your data for the sentiment analysis task, just define all the functions as defined below:
+
 ![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot.png)
+
+It doesn’t matter if you are using a group chat dataset or your conversation with one person. All the functions defined above will prepare your data for the task of sentiment analysis as well as for any data science task. Now here is how we can prepare the data we collected from WhatsApp by using the above functions:
