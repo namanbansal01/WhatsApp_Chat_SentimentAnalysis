@@ -25,6 +25,7 @@ It doesn’t matter if you are using a group chat dataset or your conversation w
 ![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-2.png)
 
 Now here is how we can analyze the sentiments of WhatsApp chat using Python:
+
 ![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-3.png)
 
 ![alt tag](https://github.com/namanbansal01/WhatsApp_Chat_SentimentAnalysis/blob/main/snapshot-4.png)
